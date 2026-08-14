@@ -31,7 +31,7 @@ This pipeline models 2D spatial Gaussian beam propagation using the Angular Spec
 ### 1. Fresnel Wave Propagation (Angular Spectrum Method)
 The complex electric field $E(x,y,z)$ propagates through free space via the spatial frequency transfer function:
 
-$$E(x, y, z) = \mathcal{F}^{-1} \left\{ \mathcal{F}\{E(x,y,0)\} \cdot \exp\left(-i z \frac{k_x^2 + k_y^2}{2k}\right) \right\}$$
+$$E(x, y, z) = \mathcal{F}^{-1} \left[ \mathcal{F}\{E(x,y,0)\} \cdot \exp \left( -i z \frac{k_x^2 + k_y^2}{2k} \right) \right]$$
 
 ### 2. Single-Mode Fiber Overlap Integral
 The spatial coupling efficiency $\eta_{\text{smf}}$ into the receiving single-mode fiber is derived from the complex overlap integral:
