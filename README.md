@@ -67,7 +67,7 @@ fso-qkd-simulator/
 
 ### Installation
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/fso-qkd-simulator.git](https://github.com/YOUR_GITHUB_USERNAME/fso-qkd-simulator.git)
+git clone [https://github.com/Swatee-05/fso-qkd-simulator.git](https://github.com/Swatee-05/fso-qkd-simulator.git)
 cd fso-qkd-simulator
 pip install -r requirements.txt
 ```
