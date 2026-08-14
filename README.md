@@ -76,6 +76,8 @@ pip install -r requirements.txt
 ```bash
 python examples/run_simulation.py
 ```
+### Numerical Modeling and PAT Simulation
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fso-qkd-simulator-ji7wh2nxnhzw6udikr5dj3.streamlit.app/)
 
 ---
 
